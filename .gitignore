@@ -1,4 +1,5 @@
 node_modules/
 upload/
 dist/
+.vscode/
 smtp.config.json
