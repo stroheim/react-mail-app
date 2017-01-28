@@ -14,7 +14,7 @@ Reactの練習用に作ったメール送信アプリ
 `npm run build`
 
 ## config(smtp server settings)
-1) copy from **`smtp.config.local.json`** to **`smtp.config.json`**
+1) copy from **`smtp.config.local.json`** to **`smtp.config.json`**   
 2) modify **`smtp.config.json`** to your settings(refers [nodemailer](https://community.nodemailer.com/2-0-0-beta/setup-smtp/))
 
 ## run   
